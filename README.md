@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # task-meneger-1
 # tasks
 # tasks
+# tasks
