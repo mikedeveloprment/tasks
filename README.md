@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # task-manager
 # task-meneger-1
 # tasks
+# tasks
